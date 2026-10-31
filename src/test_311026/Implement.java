@@ -2,6 +2,8 @@ package test_311026;
 
 public class Implement extends Employee {
 	
+	// question 5. Abstract Method can be used for this scenario.
+	
 	private String name;
 	private String feedback;
 	
