@@ -12,7 +12,7 @@ public class Main {
 			System.out.println("Department: " + dept);
 		};
 		
-		student.display("Vishnu", 22, "Java");
+		student.display("Anand", 22, "Java");
 		
 		System.out.println();
 		
