@@ -73,7 +73,7 @@ public class CollegeManagement {
 
         }
 
-        System.out.println("\n----- Overall Highest Mark -----");
+        System.out.println("----- Overall Highest Mark -----");
         System.out.println("Overall Highest Mark: " + overallHighest);
 	}
 
