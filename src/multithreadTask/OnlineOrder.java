@@ -1,5 +1,7 @@
 package multithreadTask;
 
+// question 1 
+
 public class OnlineOrder extends Thread {
 	
 	public void run(){
@@ -39,7 +41,6 @@ public class OnlineOrder extends Thread {
 		onlineOrder.join();
 		
 		System.out.println("State after completion : " + onlineOrder.getState());
-		 
 		 
 		
 	}
