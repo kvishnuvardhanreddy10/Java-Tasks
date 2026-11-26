@@ -2,6 +2,8 @@ package innerClassAndCollectionsTask;
 
 import java.util.HashSet;
 
+// question 3
+
 public class Hashset {
 
 	public static void main(String[] args) {
