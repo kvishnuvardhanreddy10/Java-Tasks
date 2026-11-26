@@ -17,16 +17,10 @@ public class Arraylist {
 		names.add("Anwar");
 		names.add("Nasar");
 		
-		System.out.println(names);
-		
 		for(int i = 0; i < names.size(); i++) {
 			System.out.println(names.get(i));
 		}
-		
-		
-		
-		
-		
+			
 	}
 
 }
