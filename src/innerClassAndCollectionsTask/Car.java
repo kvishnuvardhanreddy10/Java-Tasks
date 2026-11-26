@@ -1,5 +1,7 @@
 package innerClassAndCollectionsTask;
 
+// question 1
+
 public class Car {
 	
 	public void carName() {
